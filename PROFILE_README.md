@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer with expertise in **Machine Learning**, **Data Science**, and **Full-Stack Development**. I love building practical applications that solve real-world problems and create positive impact. My focus areas include:
+I am a passionate software developer with expertise in **Machine Learning**, **Data Science**, and **Full-Stack Development**. I love building practical applications that solve real-world problems and create positive impact. My focus areas include:
 
 - 🤖 **AI/ML Projects**: Healthcare applications, customer analytics, gesture recognition
 - 📝 **Interview Preparation**: Mastering data structures and algorithms (150+ problems)
